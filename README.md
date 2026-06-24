@@ -1,6 +1,6 @@
 # Fuck AI code
 
-Built with Astro.
+Built with Astro without AI.
 
 ## 🧞 Commands
 
