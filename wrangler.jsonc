@@ -1,0 +1,7 @@
+{
+  "name": "fuckaicode",
+  "compatibility_date": "2026-06-24", // Update to the day you deploy
+  "assets": {
+    "directory": "./dist"
+  }
+}
